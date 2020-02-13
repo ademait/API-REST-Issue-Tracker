@@ -5,6 +5,7 @@ Made it with [Spring Boot](https://spring.io/projects/spring-boot) and the [Swag
 
 # Screenshots
 These are some screenshots of the Swagger. 
+[Home](ademait/API-REST-Issue-Tracker/screenshots/Home.png)
 
 
 
