@@ -1,5 +1,14 @@
-# REST API IssueTracker G13D 
+# REST API IssueTracker 
 
+A REST API based on level 2 from the Richardson Maturity Model. 
+Made it with [Spring Boot](https://spring.io/projects/spring-boot) and the [Swagger UI](https://swagger.io/tools/swagger-ui/).
+
+# Screenshots
+These are some screenshots of the Swagger. 
+
+
+
+# Authors
 - Danci, Marian Dumitru
 - Ait Fonollà, Adem
 - Segura Sánchez, Enric
